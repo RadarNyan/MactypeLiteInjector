@@ -11,11 +11,11 @@ Build this project for both x86 and x64 platforms, rename x64 build filename to 
 
 Or you can download the pre-built exetutables from github release page (**warning: most AV might report this program as a virus**)
 
-Then you can use either of the two executables (they would detect whether the given process is a 32-bit or 64-bit one)
+Then you can use either of the two executables (they would detect whether the given process is a 32-bit or 64-bit one and call one another if necessary)
 
 ```MactypeLiteInjector.exe [PID]``` to inject MacType.dll into a running process  
   
-```MactypeLiteInjector.exe [Program To Run]```  or
+```MactypeLiteInjector.exe [Program To Run]``` or  
 ```MactypeLiteInjector.exe [Program To Run] [Custom Working Directory]``` to start a program then inject to it
 
 ## Extra info
