@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MactypeLiteInjector", "MactypeLiteInjector\MactypeLiteInjector.csproj", "{03FF15EE-232B-47C7-BD0A-917C1DC944F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03FF15EE-232B-47C7-BD0A-917C1DC944F5}.Debug|x64.ActiveCfg = Debug|x64
+		{03FF15EE-232B-47C7-BD0A-917C1DC944F5}.Debug|x64.Build.0 = Debug|x64
+		{03FF15EE-232B-47C7-BD0A-917C1DC944F5}.Debug|x86.ActiveCfg = Debug|x86
+		{03FF15EE-232B-47C7-BD0A-917C1DC944F5}.Release|x64.ActiveCfg = Release|x64
+		{03FF15EE-232B-47C7-BD0A-917C1DC944F5}.Release|x64.Build.0 = Release|x64
+		{03FF15EE-232B-47C7-BD0A-917C1DC944F5}.Release|x86.ActiveCfg = Release|x86
+		{03FF15EE-232B-47C7-BD0A-917C1DC944F5}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5B1AB8D-A3D1-42C0-AD84-FD95EDCE00FD}
+	EndGlobalSection
+EndGlobal
